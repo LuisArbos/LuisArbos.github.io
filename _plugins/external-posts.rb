@@ -12,7 +12,7 @@ module ExternalPosts
         site.config['external_sources'].each do |src|
           p "Fetching external posts from #{src['name']}:"
           xml = HTTParty.get(src['rss_url']).body
-          feed = Feedjira.parse(xml)
+          feed = Feedjira.parse(xml, parser: :nokogiri)
           feed.entries.each do |e|
             p "...fetching #{e.url}"
             slug = e.title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
