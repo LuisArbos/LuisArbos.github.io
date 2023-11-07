@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: 
+title: repositories
 description: Here you can find some information about my github account, such as commits and repositories.
 nav: true
 nav_order: 3
@@ -18,7 +18,7 @@ nav_order: 3
 
 ---
 
-{% if site.repo_trophies.enabled %}
+{% if site.repo_trophies.unabled %}
 {% for user in site.data.repositories.github_users %}
   {% if site.data.repositories.github_users.size > 1 %}
   <h4>{{ user }}</h4>

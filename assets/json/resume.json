@@ -6,7 +6,7 @@
     "email": "luisarbos@gmx.com",
     "phone": "(+34) 645230269",
     "url": "https://luisarbos.github.io",
-    "summary": "A Spanish Mechatronics Engineer trying to understand what kind of developer wants to be.",
+    "summary": "A Spanish Mechatronics Engineer trying to be a C++ and Go developer.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -90,9 +90,7 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [{
-    "skills": "Currently learning So9ftware Development with Golang"
-    }
+  "skills": [
   ],
   "languages": [
     {
