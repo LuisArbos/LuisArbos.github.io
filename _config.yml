@@ -410,4 +410,4 @@ jsonresume:
   - languages
 
 
-watch: true
+watch: false
