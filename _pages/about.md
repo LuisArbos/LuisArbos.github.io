@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>luisarbos@gmx.com</p>
-    <p>+34 645230269</p>
     <p>ZARAGOZA, SPAIN</p>
 
 news: false  # includes a list of news items
