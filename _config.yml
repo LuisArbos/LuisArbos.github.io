@@ -408,3 +408,6 @@ jsonresume:
   - education
   - skills
   - languages
+
+
+watch: true
