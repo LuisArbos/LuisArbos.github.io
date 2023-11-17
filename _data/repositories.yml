@@ -2,6 +2,8 @@ github_users:
   - luisarbos
 
 github_repos:
+  - luisarbos/SQL_HackerRank
   - luisarbos/cold-exposure-firmware
   - luisarbos/heating_house_system
   - luisarbos/luisarbos.github.io
+  
