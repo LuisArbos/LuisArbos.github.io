@@ -57,12 +57,12 @@
       "score": "9.01/10",
       "courses": [
         "Big Data and Analytics",
-        "Industrial Cibersecurity",
+        "Industrial Cybersecurity",
         "Smart Manufacturing, 3D Printing & Simulation",
         "Technological Innovation and Digital Transformation of Business",
         "Industrial IoT, IoT Platforms and Applications by Sectors",
         "Professional Projects for the Digitalization of Companies in the Context of Industry 4.0",
-        "Robotics, Intelligent Systems and Cyuberphysics",
+        "Robotics, Intelligent Systems and Cyberphysics",
         "Sensors, Devices, Networks and Communication Protocols"
       ]
     },
@@ -71,7 +71,7 @@
       "url": "http://eupla.unizar.es/",
       "area": "Mechatronics Engineering",
       "studyType": "Bachelors Degree",
-      "startDate": "2016-09-01",
+      "startDate": "2016-09-01", 
       "endDate": "2020-09-01",
       "score": "",
       "courses": [
