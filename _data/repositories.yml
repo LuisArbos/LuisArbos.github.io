@@ -2,6 +2,7 @@ github_users:
   - luisarbos
 
 github_repos:
+  - luisarbos/Weather_Web_Scraper
   - luisarbos/Python_HackerRank
   - luisarbos/ProblemSolving_HackerRank
   - luisarbos/SQL_HackerRank
