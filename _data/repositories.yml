@@ -2,6 +2,7 @@ github_users:
   - luisarbos
 
 github_repos:
+  - luisarbos/Hydration_Test_App
   - luisarbos/Weather_Web_Scraper
   - luisarbos/Python_HackerRank
   - luisarbos/ProblemSolving_HackerRank
