@@ -2,12 +2,14 @@ github_users:
   - luisarbos
 
 github_repos:
+  - luisarbos/Personal_Finance_Tracker
+  - luisarbos/Trading_Bot
   - luisarbos/Hydration_Test_App
   - luisarbos/Weather_Web_Scraper
   - luisarbos/Python_HackerRank
   - luisarbos/ProblemSolving_HackerRank
   - luisarbos/SQL_HackerRank
+  - luisarbos/luisarbos.github.io
   - luisarbos/cold-exposure-firmware
   - luisarbos/heating_house_system
-  - luisarbos/luisarbos.github.io
   
