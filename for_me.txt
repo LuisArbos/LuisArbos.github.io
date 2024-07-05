@@ -1,0 +1,5 @@
+Para hacer deploy.
+
+Hacemos los cambios, hacemos el add y el commit y en el momento de hacer el push tenemos que hacer.
+
+bin/deploy --user 
