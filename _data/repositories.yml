@@ -2,6 +2,7 @@ github_users:
   - luisarbos
 
 github_repos:
+  - luisArbos/Vocabulary_WebApp
   - luisarbos/Personal_Finance_Tracker
   - luisarbos/Trading_Bot
   - luisarbos/Hydration_Test_App
